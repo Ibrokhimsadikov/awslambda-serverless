@@ -3,7 +3,7 @@
 With the growing popularity of Serverless, I wanted to explore how to to build a (Big) Data platform using Amazon’s serverless services. In this article, we will look into what is a data platform and the potential benefits of building a serverless data platform. We will also look at the architectures of some of the serverless data platforms being used in the industry.
 
 ## What is a Data Platform?
-![.](https://github.com/Ibrokhimsadikov/BCM_Dash/blob/master/www/process%20pipe.PNG)
+![.](https://github.com/Ibrokhimsadikov/awslambda-serverless/blob/master/0_Q9oqDIk0KbvjyGJz_.png)
 ## Why build a serverless data platform
 
 Serverless architectures benefit from significantly reduced operational costs and complexity and thus it is a good fit for building a data platform. It can reduce the amount of time it takes to spin up a fully functional data platform as compared to the traditional “big-data” platforms. Some of the other benefits of a serverless data platform are:
