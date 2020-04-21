@@ -10,7 +10,7 @@ Serverless architectures benefit from significantly reduced operational costs an
 
 ## Why build a serverless data platform
 
-https://github.com/Ibrokhimsadikov/awslambda-serverless/blob/master/new-01-sqs-dynamodb-1.png
+![.](https://github.com/Ibrokhimsadikov/awslambda-serverless/blob/master/new-01-sqs-dynamodb-1.png)
 The flexibility of data ingestion and consumption.
 Cheap & reliable storage
 Ability to support ad-hoc querying of data
